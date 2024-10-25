@@ -1,3 +1,3 @@
 # Pacote
 
-Esse é o README.md do meu pacote
+Esse é o README.md do meu pacote. Adicionei uma alteração
